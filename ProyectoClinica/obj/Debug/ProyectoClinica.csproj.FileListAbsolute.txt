@@ -1,0 +1,40 @@
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe.config
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.pdb
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Form1.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.exe
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.pdb
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.PacActualizar.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.PacListado.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.PacNuevo.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ProfListado.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ProfNuevo.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ProfActualizar.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.CitaListado.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.CitaNuevo.resources
+C:\Users\Usuario\Desktop\PROYECTO\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.CitaActualizar.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.CitaActualizar.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.CitaListado.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.CitaNuevo.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Form1.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.PacActualizar.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.PacListado.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.PacNuevo.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ProfActualizar.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ProfListado.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.ProfNuevo.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.exe
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\obj\Debug\ProyectoClinica.pdb
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe.config
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.exe
+C:\Users\Usuario\Desktop\PROYECTO\PROYECTO PROGRAMACIÓN III\ProyectoClinica\ProyectoClinica\bin\Debug\ProyectoClinica.pdb

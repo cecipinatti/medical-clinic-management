@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{20316B8C-DD2C-4A79-A8A8-E16B2A50CEE5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoClinica</RootNamespace>
+    <AssemblyName>ProyectoClinica</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CitaActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CitaActualizar.Designer.cs">
+      <DependentUpon>CitaActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CitaListado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CitaListado.Designer.cs">
+      <DependentUpon>CitaListado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CitaNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CitaNuevo.Designer.cs">
+      <DependentUpon>CitaNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PacActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PacActualizar.Designer.cs">
+      <DependentUpon>PacActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PacListado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PacListado.Designer.cs">
+      <DependentUpon>PacListado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PacNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PacNuevo.Designer.cs">
+      <DependentUpon>PacNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfActualizar.Designer.cs">
+      <DependentUpon>ProfActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfListado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfListado.Designer.cs">
+      <DependentUpon>ProfListado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfNuevo.Designer.cs">
+      <DependentUpon>ProfNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CitaActualizar.resx">
+      <DependentUpon>CitaActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CitaListado.resx">
+      <DependentUpon>CitaListado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CitaNuevo.resx">
+      <DependentUpon>CitaNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PacActualizar.resx">
+      <DependentUpon>PacActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PacListado.resx">
+      <DependentUpon>PacListado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PacNuevo.resx">
+      <DependentUpon>PacNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfActualizar.resx">
+      <DependentUpon>ProfActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfListado.resx">
+      <DependentUpon>ProfListado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfNuevo.resx">
+      <DependentUpon>ProfNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
