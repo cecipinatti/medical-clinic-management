@@ -1,1 +1,1 @@
-Aplicación de escritorio para gestionar registros de pacientes y profesionales de salud, permitiendo la programación de citas según la disponibilidad de los profesionales.
+Final project of the subject Programming III at the National Technological University (UTN). Developed in C# with Windows Forms and SQL Server for the management of medical appointments, patients and professionals.
